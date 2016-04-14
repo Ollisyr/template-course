@@ -3,6 +3,8 @@
 This is example of template course....
 
 
+[Read more!](https://github.com/JAMK-IT/template-course/pulse)
+
 
 
 
